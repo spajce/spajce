@@ -7,6 +7,4 @@ I'm Japz, a passionate C# Developer! 👨‍💻
 ## 💡 About Me
 
 - 🚀 Exploring the realms of technology and innovation.
-- 💻 Enthusiastic about [Your Interests/Technologies].
 - 🎓 Currently learning Vue 3 - Typescript - Bootstrap - MUI Hybrid Blazor - MudBlazor - Blazor Server - Blazor WASM.
-- 🌱 Always open to learning and collaborating on new projects.
