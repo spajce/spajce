@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - Experienced **C# Developer** with over **12 years** in software development.
-- Adept in **database design & administration**: MS SQL Server, MySQL, SQL CE Compact, SQLite, SAP B1, and more.
+- Adept in **database design & administration**: MS SQL Server, MySQL, SQLite, SAP B1, and more.
 - Strong foundation in **.NET technologies**: WinForms, .NET Core Web API, MVC, Entity Framework, LINQ, Xamarin-MAUI, MudBlazor, PowerShell scripting, and Microsoft Report Viewer.
 - Proven skills in **web technologies**: TypeScript, JavaScript, Vue 3, JSON, XML, and HTML.
 - Proficient with **third-party tools**: SAP B1 SDK, Crystal Reports, DevExpress WinForms & Reports.
